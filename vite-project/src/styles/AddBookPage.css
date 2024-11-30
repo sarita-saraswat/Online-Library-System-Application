@@ -1,0 +1,28 @@
+.add-book {
+    padding: 20px;
+    width: 50%;
+    margin: 40px 60px 40px 60px ;
+    /* margin: auto; */
+    background-color: #bedd0f;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(238, 6, 6, 0.1);
+  }
+  
+  .add-book input,
+  .add-book select,
+  .add-book textarea {
+    width: 95%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .add-book button {
+    width: 30%;
+    height: 30px;
+    border-radius: 4px;
+    margin: auto;
+    margin-left: 200px;
+  }
+  

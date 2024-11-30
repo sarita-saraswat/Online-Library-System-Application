@@ -1,0 +1,26 @@
+.browse-books {
+    padding: 90px;
+    margin-left: 300px;
+  }
+  
+  .browse-books input {
+    width: 50%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .browse-books ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .browse-books li {
+    margin: 15px 0;
+  }
+  
+  .browse-books li a {
+    font-weight: bold;
+  }
+  
